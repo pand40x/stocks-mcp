@@ -8,11 +8,15 @@ dist/
 *.js.map
 !src/**/*.js
 
-# Tests
+# Test files
+test_*.ts
 test_*.js
+comprehensive_test.ts
 comprehensive_test.js
+direct_test.ts
 direct_test.js
-*.test.js
+debug_yf.ts
+debug_yf.js
 
 # IDE
 .vscode/
