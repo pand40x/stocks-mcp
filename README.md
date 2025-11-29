@@ -27,7 +27,6 @@ MCP (Model Context Protocol) server for comprehensive stock market data using Ya
 ### Market Support
 - 🇺🇸 **US Markets** - Full support for all US stocks
 - 🇹🇷 **Turkish BIST** - Auto-detection with `.IS` suffix
-- 🪙 **Cryptocurrencies** - BTC, ETH, and other crypto assets
 - 🌍 **International** - Any Yahoo Finance supported ticker
 
 ## 📦 Installation
